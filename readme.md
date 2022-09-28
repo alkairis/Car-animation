@@ -1,3 +1,3 @@
 # Car Animation
 
-<img src="car.gif" width="600px">
+<img src="car.gif" width="100%">
